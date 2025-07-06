@@ -1,6 +1,8 @@
-# drone 
+# drone (change name and repo name)
 
-## Goal: To design a polished multipurpose drone that can carry various payloads.
+## Goal: 
+_To design a polished multipurpose drone that can carry various payloads._
+
 
 ## Requirements:
 - Needs to have a polished appearance (plastic shell with lights, speakers) (difficult)
