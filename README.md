@@ -1,21 +1,21 @@
 # drone 
 
-Goal: To design a polished multipurpose drone that can carry various payloads.
+## Goal: To design a polished multipurpose drone that can carry various payloads.
 
-Requirements:
+## Requirements:
 - Needs to have a polished appearance (plastic shell with lights, speakers) (difficult)
 - Solid attachment points for payloads (difficult, see 1.) - Will require pcb design. 
 - Attachment types: String based attachment, Package release mechanism. 
 - Gimbal to carry thermal OR regular camera. (easy, Probably going to buy this and attach it, too complicated to make)
 
-Drone parameters:
+## Drone parameters:
 Size: Medium (250-400 mm) or Large (400+ mm)
 
-Supplies:
-Going to need a flight controller that can operate over CAN bus (around 100 dollars)
-I like this flight controller: Pixhawk 6C Mini Model A – DroneDynamics.ca
-GNSS
-Already have PETG for printing the frame.
+## Supplies:
+- Going to need a flight controller that can operate over CAN bus (around 100 dollars)
+- I like this flight controller: Pixhawk 6C Mini Model A – DroneDynamics.ca
+- GNSS
+- Already have PETG for printing the frame.
 
 
 My interest in drones sparked when i was in Grade 4, when I saw an individual using a DJI Phantom to perform photography at a welcoming parade in Toronto. Ever since then, I was intrigued by drones and their numerous applications. Nowadays, I find it annoying that companies such as DJI are commercializing their drones, designing them to perform one purpose or task (photography, FPV, search and rescue, agriculture, etc). I agree that it is difficult or unrealistic to make a drone that can do everything, but there are some merits to it. For example, drones should at least be such that they can be used for FPV flying as well as casual photography, so that consumer waste can be reduced. 
