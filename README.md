@@ -1,4 +1,4 @@
-# drone (change name and repo name)
+# Multicopter
 
 ## Goal: 
 _To design a polished multipurpose drone that can carry various payloads._
