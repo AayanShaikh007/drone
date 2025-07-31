@@ -34,7 +34,10 @@ Goals
 - Add a mode where it goes to a set height, goes to the specific coordinates where the recipient has stated clear skies, and land. 
 - For this, something resembling a DJI Dock will be required.
 
-Project Gallery
+I officially began this project (research) today, on June 15th. I spent around 3-4 hours researching components of the drone and what I will need to buy to create the drone. Since this project will be very heavily CAD based, it will be a very good learning opportunity as well since I will be able to learn alot about CAD analysis and producing functional prints. 
+
+
+# Project Gallery
 <img width="1209" height="538" alt="Screenshot 2025-07-31 185143" src="https://github.com/user-attachments/assets/2ef75404-38fb-4fd5-a7f2-b8e33a69153c" />
 
 <img width="1100" height="506" alt="Screenshot 2025-07-31 184506" src="https://github.com/user-attachments/assets/03ecb918-6500-4b7a-9549-13c578a4b678" />
@@ -42,9 +45,3 @@ Project Gallery
 <img width="828" height="517" alt="Screenshot 2025-07-31 081405" src="https://github.com/user-attachments/assets/37c2ab94-2eb4-4076-8b3e-c4851949ce8b" />
 
 ![Uploading Screenshot 2025-07-31 113120.png…]()
-
-
-I officially began this project (research) today, on June 15th. I spent around 3-4 hours researching components of the drone and what I will need to buy to create the drone. Since this project will be very heavily CAD based, it will be a very good learning opportunity as well since I will be able to learn alot about CAD analysis and producing functional prints. 
-
-I like this flight controller 
-Pixhawk 6C Mini Model A – DroneDynamics.ca
