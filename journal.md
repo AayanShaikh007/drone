@@ -5,7 +5,7 @@ description: "jack of all trades, autonomous drone!"
 created_at: "2025-06-16"
 ---
 
-# July 6th - Spent 6 hours researching
+# July 5th - Spent 6 hours researching
 Requirements:
 - Needs to have a polished appearance (plastic shell with lights, speakers) (difficult)
 - Solid attachment points for payloads
@@ -25,7 +25,17 @@ Supplies:
 - GNSS
 - Already have PETG for printing the frame.
 
+July 6th- Brainstorming Frame design- 3 hours
 
+Frame Characteristics:
+- Quadcopter design
+- Reinforced X-Shape (good camera view)
+
+Now although this may be somewhat unrealistic, I want the drone to look polished by the end, so I will aim to have the body/shell of the drone resemble the DJI Matrice 4 series. 
+<img width="575" height="242" alt="image" src="https://github.com/user-attachments/assets/fd6dfd5a-6607-4012-904b-2f1e3bfcd1ea" />
+
+Finished a rough sketch of the drone in Fusion:
+<img width="752" height="599" alt="image" src="https://github.com/user-attachments/assets/1f5c489b-e419-4fde-8441-0d07cadb240c" />
 
 # July 30th- Spent 7 hours designing the frame of the drone. 
 
