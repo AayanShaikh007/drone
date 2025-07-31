@@ -14,11 +14,11 @@ Requirements:
 
 Optimal Drone parameters (i think):
 Size: 350 to 400 mm. 
-Total weight: less than 1.3 KG 
-Battery: 8000-10000 mAh LiPo
-Motors: 400–500 KV brushless
-Propellers: 10–12” carbon fiber
-Estimated flight time: 25-30 minutes. 
+- Total weight: less than 1.3 KG 
+- Battery: 8000-10000 mAh LiPo
+- Motors: 400–500 KV brushless
+- Propellers: 10–12” carbon fiber
+- Estimated flight time: 25-30 minutes. 
 
 Supplies:
 - Going to need a flight controller that can operate over CAN bus (around 100 dollars)
