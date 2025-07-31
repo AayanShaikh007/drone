@@ -9,7 +9,6 @@ created_at: "2025-06-16"
 Requirements:
 - Needs to have a polished appearance (plastic shell with lights, speakers) (difficult)
 - Solid attachment points for payloads
-- Attachment types: String based attachment, Package release mechanism. 
 - Gimbal to carry thermal OR regular camera. (easy)
 
 Optimal Drone parameters (i think):
@@ -74,4 +73,12 @@ Ok, now this looks much more stable.
 Researched some information about making extension boards for flight controllers. It turns out that most flight controllers have a dedicated led output pin that I can use. After researching/planning the led board, I made a quick schematic and PCB design, I was able to complete it quite fast because I am now kinda experienced with sk6812 led applications.
 <img width="911" height="406" alt="image" src="https://github.com/user-attachments/assets/44a9dfb6-a581-49fb-8065-00aa34ad1f38" />
 
-# July 31st- Spent x hours making release mechanims.
+# July 31st- Spent 3 hours making legs, release mechanims.
+
+After much research, I decided the best way to secure a package would be by adding a detachable package securing base that has slots for straps that could be used to hold a package. The package can be pretty sizable too- at around 16x16 cm. I also made detachable/replacable legs that can be screwed into the body individually, although I may decide to remove this in the end for noise reduction. 
+
+<img width="1100" height="506" alt="image" src="https://github.com/user-attachments/assets/7964aeba-76fc-44af-9eca-0575160a937c" />
+
+With that, I think I will conclude the project and begin the process of submitting it. 
+
+<img width="1209" height="538" alt="image" src="https://github.com/user-attachments/assets/8b06e86d-6827-44e4-bf74-d46640f19333" />
