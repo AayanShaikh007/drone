@@ -70,4 +70,8 @@ Ok, now this looks much more stable.
 
 <img width="1217" height="508" alt="image" src="https://github.com/user-attachments/assets/b93407c3-ef20-4fdb-96c8-7002c0a89366" />
 
-# July 31st- Spent x hours making LED PCB
+# July 31st- Spent 2 hours making LED PCB
+Researched some information about making extension boards for flight controllers. It turns out that most flight controllers have a dedicated led output pin that I can use. After researching/planning the led board, I made a quick schematic and PCB design, I was able to complete it quite fast because I am now kinda experienced with sk6812 led applications.
+<img width="911" height="406" alt="image" src="https://github.com/user-attachments/assets/44a9dfb6-a581-49fb-8065-00aa34ad1f38" />
+
+# July 31st- Spent x hours making release mechanims.
