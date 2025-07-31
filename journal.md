@@ -25,7 +25,7 @@ Supplies:
 - GNSS
 - Already have PETG for printing the frame.
 
-July 6th- Brainstorming Frame design- 3 hours
+# July 6th- Brainstorming Frame design- 3 hours
 
 Frame Characteristics:
 - Quadcopter design
@@ -35,8 +35,9 @@ Now although this may be somewhat unrealistic, I want the drone to look polished
 
 <img width="575" height="242" alt="image" src="https://github.com/user-attachments/assets/fd6dfd5a-6607-4012-904b-2f1e3bfcd1ea" />
 
-
+-
 I also finished a rough sketch of the drone in Fusion:
+
 
 <img width="752" height="599" alt="image" src="https://github.com/user-attachments/assets/1f5c489b-e419-4fde-8441-0d07cadb240c" />
 
