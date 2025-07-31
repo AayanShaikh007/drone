@@ -64,5 +64,5 @@ I officially began this project (research) today, on June 15th. I spent around 3
 
 |                      |        |         | CAD        | USD        |                    |
 |----------------------|--------|---------|------------|------------|--------------------|
-|                      |        | Total Cost | **551.32** | **136.45** |                    |
+|                      |        | Total Cost | **551.32** | **397.49** |                    |
 |                      |        |         |            |            | Note: 150 USD = 204.58 CAD |
