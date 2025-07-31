@@ -58,7 +58,7 @@ I was kinda confused on my project goals so I took some time researching what I 
 - Should have a way to release packages while in the air
 
 
-# July 30th- Spent 7 hours designing the frame of the drone. 
+# July 30th- Spent 8 hours designing the frame of the drone. 
 
 After working on the drone for a while, it is finally starting to look like what I wanted the final product to look like. I have made it into a modular design- the arms individually screw into the body but lock into place using the other arms as support. This should hopefully result in a pretty solid but repairable body design. Other than that, I also made the flight controller/ power distribution board holder body in the center. Next, I will edit the frame a little more to add support to the frame arms. 
 
@@ -66,4 +66,8 @@ After working on the drone for a while, it is finally starting to look like what
 <img width="1531" height="619" alt="Screenshot 2025-07-31 064636" src="https://github.com/user-attachments/assets/6564c92c-4a21-43d0-a941-9716408fa84f" />
 <img width="828" height="517" alt="Screenshot 2025-07-31 081405" src="https://github.com/user-attachments/assets/c7d1ff3c-36e0-4183-a8a2-4ce7959ac3d8" />
 
+Ok, now this looks much more stable. 
 
+<img width="1217" height="508" alt="image" src="https://github.com/user-attachments/assets/b93407c3-ef20-4fdb-96c8-7002c0a89366" />
+
+# July 31st- Spent x hours making LED PCB
