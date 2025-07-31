@@ -4,6 +4,7 @@ author: "@scalar"
 description: "jack of all trades, autonomous drone!"
 created_at: "2025-06-16"
 ---
+# Total time spent- 25 hours
 
 # July 5th - Spent 6 hours researching
 Requirements:
