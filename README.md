@@ -53,6 +53,8 @@ I officially began this project (research) today, on June 15th. I spent around 3
 
 <img width="828" height="517" alt="Screenshot 2025-07-31 081405" src="https://github.com/user-attachments/assets/37c2ab94-2eb4-4076-8b3e-c4851949ce8b" />
 
+<img width="911" height="406" alt="Screenshot 2025-07-31 113120" src="https://github.com/user-attachments/assets/38770afd-1cdc-4bb9-915b-b85475461edd" />
+
 
 # BOM
 
