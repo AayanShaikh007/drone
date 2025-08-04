@@ -1,5 +1,7 @@
 # Multicopter
 
+<img width="785" height="330" alt="Screenshot 2025-08-04 164131" src="https://github.com/user-attachments/assets/d7d98fc7-9bbb-41b1-afae-6dfb81f1e169" />
+
 ## Goal: 
 _To design a polished multipurpose drone that can carry various payloads._
 
@@ -38,13 +40,19 @@ I officially began this project (research) today, on June 15th. I spent around 3
 
 
 # Project Gallery
+
+<img width="955" height="490" alt="Screenshot 2025-08-04 164056" src="https://github.com/user-attachments/assets/66d51c35-e3fd-4245-a213-1a3f1772bc47" />
+
+<img width="785" height="330" alt="Screenshot 2025-08-04 164131" src="https://github.com/user-attachments/assets/fdc2d0d1-6ade-4c89-a28c-2a891c52297d" />
+
 <img width="1209" height="538" alt="Screenshot 2025-07-31 185143" src="https://github.com/user-attachments/assets/2ef75404-38fb-4fd5-a7f2-b8e33a69153c" />
+
+<img width="705" height="386" alt="Screenshot 2025-08-04 164121" src="https://github.com/user-attachments/assets/f7a2e03b-6a0d-42ad-bfe1-68a63f7ca3ae" />
 
 <img width="1100" height="506" alt="Screenshot 2025-07-31 184506" src="https://github.com/user-attachments/assets/03ecb918-6500-4b7a-9549-13c578a4b678" />
 
 <img width="828" height="517" alt="Screenshot 2025-07-31 081405" src="https://github.com/user-attachments/assets/37c2ab94-2eb4-4076-8b3e-c4851949ce8b" />
 
-![Uploading Screenshot 2025-07-31 113120.png…]()
 
 # BOM
 
