@@ -96,3 +96,6 @@ I aim to make the drone similar to something like this image:
 
 First of all, I changed the drone's design to be more sturdy by widening the connections to the middle frame and making them shorter, decreasing the load. **I will now be printing it in PETG or maybe a harder/stronger filament**. 
 Next, I updated the BOM to more accurate components and actually used built examples from articles and youtube to research some of my parts, and verify they will work on a 5 inch drone. 
+
+This is what the drone looks like now: <img width="876" height="467" alt="image" src="https://github.com/user-attachments/assets/56379794-972d-4aea-831c-56089f7d9156" />
+
