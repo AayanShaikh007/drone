@@ -43,6 +43,9 @@ I officially began this project (research) today, on June 15th. I spent around 3
 
 # Project Gallery
 
+<img width="618" height="350" alt="Screenshot 2025-08-16 165630" src="https://github.com/user-attachments/assets/b7b5f3dd-a07b-4a52-90f9-a2f04a0fa217" />
+
+<img width="829" height="354" alt="Screenshot 2025-08-16 165636" src="https://github.com/user-attachments/assets/02f9af24-cd58-4d9a-8718-2d7a30f03eb8" />
 
 <img width="705" height="386" alt="Screenshot 2025-08-04 164121" src="https://github.com/user-attachments/assets/f7a2e03b-6a0d-42ad-bfe1-68a63f7ca3ae" />
 
