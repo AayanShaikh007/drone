@@ -6,6 +6,9 @@ created_at: "2025-06-16"
 ---
 # Total time spent- 25 hours
 
+## IMPORTANT: the drone will now be a 5 inch drone due to cost issues, and will only carry very small packages, as a proof of concept of a package deliver drone
+
+
 # July 5th - Spent 6 hours researching
 Requirements:
 - Needs to have a polished appearance (plastic shell with lights, speakers) (difficult)
@@ -83,3 +86,10 @@ After much research, I decided the best way to secure a package would be by addi
 With that, I think I will conclude the project and begin the process of submitting it. 
 
 <img width="1209" height="538" alt="image" src="https://github.com/user-attachments/assets/8b06e86d-6827-44e4-bf74-d46640f19333" />
+
+# August 16th- spent 3 hours fixing model. 
+
+It turns out that my drone is way too big and may not work if printed. I have decided to print the drone in PETG for strength and have made the frame smaller so that there isnt a risk of the frame snapping. **Therefore, the drone will now be a 5 inch drone due to cost issues, and will only carry very small packages, as a proof of concept of a package deliver drone**. I aim to make the drone similar to something like this image: 
+<img width="1001" height="1001" alt="image" src="https://github.com/user-attachments/assets/f7eb5242-1e92-4e7d-aef4-369bcab0ba51" />
+
+First of all, I changed the drone's design to be more sturdy by widening the connections to the middle frame and making them shorter, decreasing the load. **I will now be printing it in PETG or maybe a harder/stronger filament**. 
