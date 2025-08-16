@@ -4,7 +4,7 @@ author: "@scalar"
 description: "jack of all trades, autonomous drone!"
 created_at: "2025-06-16"
 ---
-# Total time spent- 25 hours
+# Total time spent- 28 hours
 
 ## IMPORTANT: the drone will now be a 5 inch drone due to cost issues, and will only carry very small packages, as a proof of concept of a package deliver drone
 
