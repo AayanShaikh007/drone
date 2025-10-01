@@ -99,3 +99,6 @@ Next, I updated the BOM to more accurate components and actually used built exam
 
 This is what the drone looks like now: <img width="876" height="467" alt="image" src="https://github.com/user-attachments/assets/56379794-972d-4aea-831c-56089f7d9156" />
 
+# October 1st- Physical build update
+
+Finally, most parts have arrived. I have started configuring the flight controller and will start soldering the motors to the esc soon. The only thing left to order is the battery which I wasnt able to order at first and some other miscellaneous things. Hope to have a working model before december. 
